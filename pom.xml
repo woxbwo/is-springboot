@@ -26,6 +26,7 @@
         <module>is-springboot-mybatis</module>
         <module>is-springboot-rocketmq</module>
         <module>is-springboot-webflux</module>
+        <module>is-springboot-jms-receive</module>
     </modules>
     <packaging>pom</packaging>
     <dependencyManagement>
